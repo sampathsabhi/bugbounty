@@ -1,0 +1,3 @@
+JS Enumeration
+
+echo "https://www.servcrust.com" |  hakrawler  - depth 3 -scope subs -plain | anew links.txt
