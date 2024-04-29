@@ -1,0 +1,1 @@
+ ffuf -u "https://HOST/Less-10/?id=FUZZ" -w ~/pentest/SQLi_Sleeps/data.txt -mt ">20000" -enc FUZZ:urlencode -timeout 150 -v
