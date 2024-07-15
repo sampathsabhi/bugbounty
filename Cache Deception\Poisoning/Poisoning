@@ -1,0 +1,3 @@
+?cb=1234
+X-Forwarded-Host: example.com
+X-Forwarded-Scheme: nothttps
