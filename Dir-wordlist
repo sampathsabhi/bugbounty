@@ -1,2 +1,12 @@
 cgi-bin/dmt/reset.cgi?db_prefix=%26id%26
 cgi-bin/reset.cgi?db_prefix=%26id%26
+actuator/env
+actuator/auditevents
+actuator/beans
+actuator/caches
+actuator/configprops
+actuator/health
+actuator/heapdump
+actuator/info
+actuator/integrationgraph
+actuator/configprops
