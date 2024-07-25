@@ -10,3 +10,4 @@ actuator/heapdump
 actuator/info
 actuator/integrationgraph
 actuator/configprops
+actuator/jolokia/exec/com.sun.management:type=DiagnosticCommand/compilerDirectivesAdd/!/etc!/hosts
